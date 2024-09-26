@@ -19,6 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI, a friend or a foe?](https://medium.com/@hinddeep.purohit007/ai-a-friend-or-a-foe-e7e555d2d61e?source=rss-7ad855d57b63------2)
+- [Spiritualité en français — La voie unique pour apprendre le français tout en réformant notre vie](https://medium.com/@hinddeep.purohit007/spiritualit%C3%A9-en-fran%C3%A7ais-la-voie-unique-pour-apprendre-le-fran%C3%A7ais-tout-en-r%C3%A9formant-notre-vie-1814a6f3928c?source=rss-7ad855d57b63------2)
+- [A noob’s guide to adding stunning bokeh effects to the backgrounds of non-portrait photos](https://medium.com/@hinddeep.purohit007/a-noobs-guide-to-adding-stunning-bokeh-effects-to-the-backgrounds-of-non-portrait-photos-41dee873a80a?source=rss-7ad855d57b63------2)
+- [Towards unconventional job hunting](https://medium.com/@hinddeep.purohit007/towards-unconventional-job-hunting-c2bbaa3f7b8b?source=rss-7ad855d57b63------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
