@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hinddeep&label=Profile%20views&color=0e75b6&style=flat" alt="hinddeep" /> </p>
 
-- 🔭 I’m currently working on **my master's thesis**
+- 🔭 I’m pursuing **PhD** in Cybersecurity with a focus on **Telecom Network Security**
 
 - 🌱 I’m currently learning **AWS**
 
