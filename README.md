@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- 👨‍💻 All of my projects are available at [https://hinddeep.appstasy.in](https://hinddeep.appstasy.in)
+- 👨‍💻 All of my projects are available at [https://hinddeepp.appstasy.in](https://hinddeepp.appstasy.in)
 
 - 📝 I regularly write articles on [https://blogs.hinddeep.appstasy.in](https://blogs.hinddeep.appstasy.in)
 
 - 💬 Ask me about **Cybersecurity, Software Development, DevOps**
 
-- 📫 How to reach me **hinddeepp@appstasy.in**
+- 📫 How to reach me **hinddeep.purohit007@gmail.com**
 
 - 📄 Know about my experiences [https://assets.appstasy.in/hinddeep/cv/cv_hinddeep_en.pdf](https://assets.appstasy.in/hinddeep/cv/cv_hinddeep_en.pdf)
 
