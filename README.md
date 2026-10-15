@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hinddeep&label=Profile%20views&color=0e75b6&style=flat" alt="hinddeep" /> </p>
 
-- 🔭 I’m pursuing **PhD** in Cybersecurity with a focus on **Telecom Network Security**
+- 🔭 I’m currently looking for a job in Cybersecurity, Cloud Computing, DevOps, Telecom or full-stack web and mobile application development 
 
 - 🌱 I’m currently learning **AWS**
 
